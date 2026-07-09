@@ -1,7 +1,7 @@
 # CODTECH IT Solutions - Task 3: Customer Sentiment Analysis
 
 **Name:** Adnan Abbas  
-**Intern ID:** [Insert Your ID Here]  
+**Intern ID:** CITS2470 
 **Domain:** Data Analytics  
 
 ## Project Overview
